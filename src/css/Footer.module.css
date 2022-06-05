@@ -1,0 +1,20 @@
+.footer{
+    background-color: black;
+    height:300px;
+    color:#90E0EF;
+}
+
+.footer li{
+list-style-type:none;
+}
+
+.outline{
+    text-align: center;
+}
+.loc {
+   float:right
+}
+.icons:hover{
+    color:white;
+    size:35;
+}
